@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PVZ_USFX_LAB01-2376.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Estudio Unreal\Laboratorios\Lab04\PVZ_USFX_LAB01\Intermediate\Build\Win64\PVZ_USFX_LAB01Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Estudio Unreal\Laboratorios\Lab04\PVZ_USFX_LAB01\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB01\Plant.cpp.obj"
+"E:\Estudio Unreal\Laboratorios\Lab04\PVZ_USFX_LAB01\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB01\PVZ_USFX_LAB01.cpp.obj"
+"E:\Estudio Unreal\Laboratorios\Lab04\PVZ_USFX_LAB01\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB01\PVZ_USFX_LAB01GameModeBase.cpp.obj"
+"E:\Estudio Unreal\Laboratorios\Lab04\PVZ_USFX_LAB01\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB01\Spawns.cpp.obj"
+"E:\Estudio Unreal\Laboratorios\Lab04\PVZ_USFX_LAB01\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB01\Zombie.cpp.obj"
+"E:\Estudio Unreal\Laboratorios\Lab04\PVZ_USFX_LAB01\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB01\Plant.gen.cpp.obj"
+"E:\Estudio Unreal\Laboratorios\Lab04\PVZ_USFX_LAB01\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB01\PVZ_USFX_LAB01.init.gen.cpp.obj"
+"E:\Estudio Unreal\Laboratorios\Lab04\PVZ_USFX_LAB01\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB01\PVZ_USFX_LAB01GameModeBase.gen.cpp.obj"
+"E:\Estudio Unreal\Laboratorios\Lab04\PVZ_USFX_LAB01\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB01\Spawns.gen.cpp.obj"
+"E:\Estudio Unreal\Laboratorios\Lab04\PVZ_USFX_LAB01\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB01\Zombie.gen.cpp.obj"
+"E:\Estudio Unreal\Laboratorios\Lab04\PVZ_USFX_LAB01\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB01\Default.rc2.res"
+/OUT:"E:\Estudio Unreal\Laboratorios\Lab04\PVZ_USFX_LAB01\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB01\UE4Editor-PVZ_USFX_LAB01-2376.lib"
